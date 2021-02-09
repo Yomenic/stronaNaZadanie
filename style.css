@@ -1,0 +1,115 @@
+/* Global */
+body {
+  background-image: url('https://www.publicdomainpictures.net/pictures/200000/velka/turquoise-curve-background.jpg');
+   background-repeat: no-repeat;
+}
+.site {
+  max-width: 1050px;
+  float: none;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+  height: 600px;
+  background-color: pink;
+   background-repeat: no-repeat;
+   background-size: 1150px;
+   border-radius: 20px;
+
+  }
+  .site2 {
+    max-width: 1050px;
+    float: none;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    height: 600px;
+    background-color: yellow;
+     background-repeat: no-repeat;
+     background-size: 1150px;
+     border-radius: 20px;
+    }
+    .site3 {
+      max-width: 1050px;
+      float: none;
+      margin: auto;
+      background-color: white;
+      padding: 10px;
+      height: 600px;
+      background-color: #CC0033;
+       background-repeat: no-repeat;
+       background-size: 1150px;
+       border-radius: 20px;
+      }
+      .site4 {
+        max-width: 1050px;
+        float: none;
+        margin: auto;
+        background-color: white;
+        padding: 10px;
+        height: 600px;
+        background-color: #66FF33;
+         background-repeat: no-repeat;
+         background-size: 1150px;
+         border-radius: 20px;
+
+        }
+
+  h1, h2, h3, h3, h4, h5 {
+    font-family: 'Nunito Sans', sans-serif;
+
+  }
+  p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
+  a{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.3em;
+  }
+header {
+  width: 100%;
+  display: block;
+}
+header nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header nav a{
+  padding: 10px;
+  text-decoration: none;
+  color: grey;
+}
+header nav a:hover{
+  color: white;
+  background-color: lightblue;
+}
+main {
+ display: block;
+ float: left;
+ width: 70%;
+ min-height: 300px;
+}
+aside {
+  display: block;
+  float: right;
+  width: 28%;
+  min-height: 300px;
+}
+footer{
+  display: inline-block;
+  width: 100%;
+}
+.zdjecie{
+  width: 100%;
+  opacity: 80%;
+}
+.tabela{
+  background-color: #CCCC33;
+  padding: 10px;
+  border-collapse:separate;
+	border:2mm ridge grey;
+	width:400px;
+	table-layout:fixed;

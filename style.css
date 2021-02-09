@@ -103,8 +103,11 @@ footer{
   width: 100%;
 }
 .zdjecie{
-  width: 100%;
-  opacity: 80%;
+  float: right;
+  height: auto;
+  width: 15%;
+  opacity: 100%;
+  display: inline;
 }
 .tabela{
   background-color: #CCCC33;
